@@ -8,4 +8,12 @@
 
 # Create New workspace in terraform Cloud
 
-- Created new workspace in terraform cloud using version contolled workflow by conecting git repo.  
+- Created new workspace in terraform cloud using version contolled workflow by conecting git repo.
+
+# Video to setup terraform end-to-end
+
+- https://www.youtube.com/watch?v=gColl7YQAl0
+
+# Follow this official Documentation
+
+- https://developer.hashicorp.com/terraform/tutorials/cloud-get-started/cloud-sign-up
